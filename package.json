@@ -1,10 +1,10 @@
 {
-  "name": "react-native-countdown-component",
-  "version": "2.7.1",
-  "description": "React Native CountDown Component",
+  "name": "@bserrano27/react-native-countdown-component",
+  "version": "2.7.2",
+  "description": "React Native CountDown Component. This is a fork of talalmajali/react-native-countdown-component that fixes AppState.removeEventListener on react v0.70",
   "repository": {
     "type": "git",
-    "url": "https://github.com/talalmajali/react-native-countdown-component.git"
+    "url": "https://github.com/bserrano27/react-native-countdown-component.git"
   },
   "keywords": [
     "react-native",
@@ -18,12 +18,12 @@
     "countdown"
   ],
   "author": {
-    "name": "Talal Majali",
-    "email": "t.majali93@gmail.com"
+    "name": "Brian Serrano",
+    "email": "brian@queo.com.co"
   },
-  "homepage": "https://github.com/talalmajali/react-native-countdown-component",
+  "homepage": "https://github.com/bserrano27/react-native-countdown-component",
   "bugs": {
-    "url": "https://github.com/talalmajali/react-native-countdown-component/issues"
+    "url": "https://github.com/bserrano27/react-native-countdown-component/issues"
   },
   "dependencies": {
     "lodash": "^4.17.13",
